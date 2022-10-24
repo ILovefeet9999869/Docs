@@ -66,13 +66,13 @@ The default prefix is `p.` but can be changed with the [prefix command](#prefix)
 - [User](#user)
 
 ### [NSFW](#category-nsfw)
-- [Blowjob](#blowjob)
-- [Cum](#cum)
-- [Fuck](#fuck)
-- [Lewd](#lewd)
-- [Pussylick](#pussylick)
-- [Solo](#solo)
-- [Threesome](#threesome)
+- [Blowjob](!blowjob)
+- [Cum](!cum)
+- [Fuck](!fuck)
+- [Lewd](!lewd)
+- [Pussylick](!pussylick)
+- [Solo](!solo)
+- [Threesome](!threesome)
 
 ----
 ## Fun { #category-fun }
